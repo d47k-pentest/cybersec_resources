@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<minder version="1.9.2">
+  <theme name="dark" label="Dark" index="4"/>
+  <styles>
+    <style level="0" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="5" connectionfont="Fira Code 12"/>
+    <style level="1" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="5" connectionfont="Fira Code 12"/>
+    <style level="2" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="5" connectionfont="Fira Code 12"/>
+    <style level="3" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="5" connectionfont="Fira Code 12"/>
+    <style level="4" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="5" connectionfont="Fira Code 12"/>
+    <style level="5" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="5" connectionfont="Fira Code 12"/>
+    <style level="6" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="5" connectionfont="Fira Code 12"/>
+    <style level="7" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="5" connectionfont="Fira Code 12"/>
+    <style level="8" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="5" connectionfont="Fira Code 12"/>
+    <style level="9" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="5" connectionfont="Fira Code 12"/>
+    <style level="10" isset="true" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true" connectiondash="dotted" connectionwidth="2" connectionarrow="fromto" connectionpadding="5" connectionfont="Fira Code 12"/>
+  </styles>
+  <drawarea x="33.79296875" y="-240" scale="1"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="-74" posy="360.28515625" maxwidth="200" width="182" height="54" side="left" fold="false" treesize="603" layout="To right">
+      <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true"/>
+      <formatting/>
+      <nodename>Cyber Security</nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="12" posx="208" posy="102.28515625" maxwidth="200" width="182" height="54" side="right" fold="false" treesize="134" color="#3689e6" colorroot="false" layout="To right">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Anti_forensics</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="13" posx="490" posy="75.28515625" maxwidth="200" width="105" height="54" side="right" fold="false" treesize="54" color="#3689e6" colorroot="false" layout="To right">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true"/>
+              <formatting/>
+              <nodename>use VMs</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="14" posx="490" posy="103.28515625" maxwidth="200" width="149" height="54" side="right" fold="false" treesize="54" color="#3689e6" colorroot="false" layout="To right">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Use Live CD</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="15" posx="490" posy="157.28515625" maxwidth="200" width="28" height="52" side="right" fold="false" treesize="52" color="#3689e6" colorroot="false" layout="To right">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true"/>
+              <formatting/>
+              <nodename></nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="7" posx="208.00000000000006" posy="170.28515625" maxwidth="200" width="193" height="80" side="right" fold="false" treesize="80" color="#68b723" colorroot="false" layout="To right">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Introduction to cyber security</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="1" posx="208.00000000000006" posy="370.28515625" maxwidth="200" width="204" height="54" side="right" fold="false" treesize="294" color="#c6262e" colorroot="false" layout="To right">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Personal Privacy</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="4" posx="512" posy="330.28515625" maxwidth="200" width="105" height="54" side="right" fold="false" treesize="214" color="#c6262e" colorroot="false" layout="To right">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Broswer</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="8" posx="717" posy="250.28515625" maxwidth="200" width="204" height="54" side="right" fold="false" treesize="54" color="#c6262e" colorroot="false" layout="To right">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>password storage</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="9" posx="717" posy="304.28515625" maxwidth="200" width="182" height="54" side="right" fold="false" treesize="54" color="#c6262e" colorroot="false" layout="To right">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>incognito mode</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="16" posx="717" posy="358.28515625" maxwidth="200" width="204" height="106" side="right" fold="false" treesize="106" color="#c6262e" colorroot="false" layout="To right">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>Be caution while using http websites</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="5" posx="511.9999999999996" posy="477.28515625" maxwidth="200" width="116" height="54" side="right" fold="false" treesize="80" color="#c6262e" colorroot="false" layout="To right">
+              <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true"/>
+              <formatting/>
+              <nodename>Password</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="11" posx="727.99999999999955" posy="464.28515625" maxwidth="200" width="160" height="80" side="right" fold="false" treesize="80" color="#c6262e" colorroot="false" layout="To right">
+                  <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true"/>
+                  <formatting/>
+                  <nodename>use password Manager</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="2" posx="162.00000000000006" posy="544.28515625" maxwidth="200" width="182" height="54" side="right" fold="false" treesize="54" color="#f37329" colorroot="false" layout="To right">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Google Hacking</nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="3" posx="162.00000000000006" posy="598.28515625" maxwidth="200" width="193" height="80" side="right" fold="false" treesize="80" color="#f9c440" colorroot="false" layout="To right">
+          <style linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Fira Code 14" nodemarkup="true"/>
+          <formatting/>
+          <nodename>Note Taking and Mind mapping</nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+</minder>
