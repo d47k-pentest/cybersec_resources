@@ -75,8 +75,6 @@ In these types of attacks, someone without the proper authentication follows an 
 - capture the packet and look using filter `http.request.method=="POST"`
 
 
-`Public Wifi တွေကိုသုံးတဲ့အခါမှာ VPN ခံသုံးသင့်ပါတယ်။`
-
 
 ## 2. Demo Social Engineering
 
