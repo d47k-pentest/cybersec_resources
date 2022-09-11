@@ -15,29 +15,29 @@ Social engineering is an attack vector that relies heavily on human interaction 
 
 ## 3. Types of social engineering attack
 
-#### 1. Baiting (ငါးစာတပ်သည်)
+#### Baiting (ငါးစာတပ်သည်)
 
 - An attacker leaves a malware-infected physical device (USB) in certain area (eg. bathroom, elevator, ther parking lot of targetd company)
 - The target then picks up the device and inserts it into their computer, unintentionally installing the malware
 
-#### 2. Scareware
+#### Scareware
 - false alarms of critical threat
 - promoting them to install software with malware or virus
 
-#### 3. Phishing
+#### Phishing
 
  phishing scams are email and text message campaigns aimed at creating a sense of urgency, curiosity or fear in victims
 
 - An example is an email sent to users of an online service that alerts them of a policy violation requiring immediate action on their part, such as a required password change. 
 - It includes a link to an illegitimate website—nearly identical in appearance to its legitimate version—prompting the unsuspecting user to enter their current credentials and new password
 
-#### 4. Spear Phishing 
+#### Spear Phishing 
 
 This is a more targeted version of the phishing scam whereby an attacker chooses specific individuals or enterprises
 
 - A spear phishing scenario might involve an attacker who, in impersonating an organization’s IT consultant, sends an email to one or more employees
 
-#### 5. Tailgating (ကားမောင်းတဲ့အခါမှာ တစ်ခြားကားရဲ့အနောက်ကို တအားကပ်ပြီးလိုက်တဲ့ အဓိပ္ပါယ်)
+#### Tailgating (ကားမောင်းတဲ့အခါမှာ တစ်ခြားကားရဲ့အနောက်ကို တအားကပ်ပြီးလိုက်တဲ့ အဓိပ္ပါယ်)
 
 In these types of attacks, someone without the proper authentication follows an authenticated employee into a restricted area
 
