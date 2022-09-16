@@ -88,3 +88,21 @@ Objective - To show how dangerous software from unknown source
 5. copy payload to **WINDOW COMPUTER**
 
 6. use command `screenshot`
+
+
+Attacking Methodoloty
+
+![cyberKillChain](../photo/method.png)
+
+
+## 1. Detect the host operation system (Reconnaissance)
+
+## 2. Creating payload or Backdoor with SE tool kit (Weponization)
+
+## 3. Deliver web link (Dekivery)
+
+## 4. Getting meteprater (Exploitation)
+
+## 5. Installation (Install malware)
+
+## 6. Control the target system (command and control)
