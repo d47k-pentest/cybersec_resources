@@ -90,7 +90,7 @@ Objective - To show how dangerous software from unknown source
 6. use command `screenshot`
 
 
-Attacking Methodoloty
+# Attacking Methodoloty
 
 ![cyberKillChain](../photo/method.png)
 
