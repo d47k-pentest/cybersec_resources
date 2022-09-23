@@ -28,3 +28,12 @@
 - Bitwarden
 
 #### 5. Stegnography
+
+- download steghide
+
+#### Hiding Data
+- `steghide embed -ef '/home/d47k/Desktop/secrets' -cf '/home/d47k/Desktop/d47k_class/photo_with_gps/cat.jpg' -p 12345`
+
+#### Extracting Data
+
+- `steghide extract -sf '/home/d47k/Desktop/d47k_class/photo_with_gps/cat.jpg' -p 12345 -xf /home/d47k/Desktop/extract.txt`
